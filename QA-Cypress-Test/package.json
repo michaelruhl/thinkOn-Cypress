@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  },
+  "scripts": {
+    "cypress": "export DISPLAY=:0 && npx cypress open"
+  }
+}
